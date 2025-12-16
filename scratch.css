@@ -1,0 +1,27 @@
+body {
+  background-color: #ece6f7;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+.section {
+  background-color: white;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 900px;
+  border-radius: 6px;
+}
+
+h1 {
+  color: #2a7f62;
+}
+
+h2 {
+  color: #444;
+}
+
+
+img {
+  max-width: 100%;
+  margin-top: 15px;
+}
